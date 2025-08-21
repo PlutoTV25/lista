@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BR - Band Campinas HD" tvg-name="BAND CAMPINAS [HD]" tvg-logo="http://cc90.one/VVJ" group-title="Canais | Abertos",BAND CAMPINAS [HD]
+http://cdn50.vip:80/dgp56418/urf62968/113587.ts
+#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ [FHD]" tvg-logo="http://cc90.one/VVL" group-title="Canais | Abertos",BAND RJ [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/122446.ts
+#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ [HD]" tvg-logo="http://cc90.one/VVM" group-title="Canais | Abertos",BAND RJ [HD]
+http://cdn50.vip:80/dgp56418/urf62968/122447.ts
+#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="Band RS [FHD]" tvg-logo="http://cc90.one/MXP6" group-title="Canais | Abertos",Band RS [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/286928.ts
+#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="BAND RS [HD]" tvg-logo="http://cc90.one/VWQ" group-title="Canais | Abertos",BAND RS [HD]
+http://cdn50.vip:80/dgp56418/urf62968/123576.ts
+#EXTINF:-1 tvg-name="BAND SERGIPE [HD]" tvg-logo="http://cc90.one/VWR" group-title="Canais | Abertos",BAND SERGIPE [HD]
+http://cdn50.vip:80/dgp56418/urf62968/123577.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [FHD]" tvg-logo="http://cc90.one/VVH" group-title="Canais | Abertos",BAND SP [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/113585.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [HD]" tvg-logo="http://cc90.one/VVG" group-title="Canais | Abertos",BAND SP [HD]
+http://cdn50.vip:80/dgp56418/urf62968/113584.ts
+#EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [SD]" tvg-logo="http://cc90.one/VVF" group-title="Canais | Abertos",BAND SP [SD]
+http://cdn50.vip:80/dgp56418/urf62968/113583.ts
+#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="BAND TV GOIANIA [FHD][H265]" tvg-logo="http://cc90.one/UAB" group-title="Canais | Abertos",BAND TV GOIANIA [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/123575.ts
+#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="BAND TV GOIANIA [HD]" tvg-logo="http://cc90.one/UAA" group-title="Canais | Abertos",BAND TV GOIANIA [HD]
+http://cdn50.vip:80/dgp56418/urf62968/123574.ts
+#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="BAND TV MINAS [FHD]" tvg-logo="http://cc90.one/UAH" group-title="Canais | Abertos",BAND TV MINAS [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/123583.ts
+#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="BAND TV MINAS [HD]" tvg-logo="http://cc90.one/UAG" group-title="Canais | Abertos",BAND TV MINAS [HD]
+http://cdn50.vip:80/dgp56418/urf62968/123582.ts
+#EXTINF:-1 tvg-id="BR - TV Tarobá Londrina HD" tvg-name="BAND TV PR TAROBA [HD]" tvg-logo="http://cc90.one/UAC" group-title="Canais | Abertos",BAND TV PR TAROBA [HD]
+http://cdn50.vip:80/dgp56418/urf62968/123578.ts
+#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV TAROBA CURITIBA [FHD]" tvg-logo="http://cc90.one/UAF" group-title="Canais | Abertos",BAND TV TAROBA CURITIBA [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/123581.ts
+#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV TAROBA CURITIBA [HD]" tvg-logo="http://cc90.one/UAD" group-title="Canais | Abertos",BAND TV TAROBA CURITIBA [HD]
+http://cdn50.vip:80/dgp56418/urf62968/123579.ts
+#EXTINF:-1 tvg-id="BR - Band HD" tvg-name="BAND [FHD][H265]" tvg-logo="http://cc90.one/VVK" group-title="Canais | Abertos",BAND [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/113588.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi [FHD][H265]" group-title="Canais | Abertos",Canal do Boi [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/231849.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi [HDR]" group-title="Canais | Abertos",Canal do Boi [HDR]
+http://cdn50.vip:80/dgp56418/urf62968/231848.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI [HD]" tvg-logo="http://cc90.one/JZA3" group-title="Canais | Abertos",CANAL DO BOI [HD]
+http://cdn50.vip:80/dgp56418/urf62968/199615.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI [SD]" tvg-logo="http://cc90.one/AIA" group-title="Canais | Abertos",CANAL DO BOI [SD]
+http://cdn50.vip:80/dgp56418/urf62968/83.ts
+#EXTINF:-1 tvg-id="BR - Canal Rural" tvg-name="Canal Rural [FHD]" tvg-logo="http://cc90.one/DYS9" group-title="Canais | Abertos",Canal Rural [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/234102.ts
+#EXTINF:-1 tvg-id="BR - Canal Rural" tvg-name="Canal Rural [FHD][H265]" tvg-logo="http://cc90.one/DYS6" group-title="Canais | Abertos",Canal Rural [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/234099.ts
+#EXTINF:-1 tvg-id="BR - Canal Rural" tvg-name="Canal Rural [FHD][HDR]" tvg-logo="http://cc90.one/DYS5" group-title="Canais | Abertos",Canal Rural [FHD][HDR]
+http://cdn50.vip:80/dgp56418/urf62968/234098.ts
+#EXTINF:-1 tvg-id="BR - Canal Rural" tvg-name="Canal Rural [HD]" tvg-logo="http://cc90.one/DYS7" group-title="Canais | Abertos",Canal Rural [HD]
+http://cdn50.vip:80/dgp56418/urf62968/234100.ts
+#EXTINF:-1 tvg-id="BR - Canal Rural" tvg-name="Canal Rural [SD]" tvg-logo="http://cc90.one/DYS8" group-title="Canais | Abertos",Canal Rural [SD]
+http://cdn50.vip:80/dgp56418/urf62968/234101.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA [FHD]" tvg-logo="http://cc90.one/AGO" group-title="Canais | Abertos",FUTURA [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/43.ts
+#EXTINF:-1 tvg-id="BR - Futura" tvg-name="FUTURA [FHD][H265]" tvg-logo="http://cc90.one/VCE" group-title="Canais | Abertos",FUTURA [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/30182.ts
+#EXTINF:-1 tvg-id="BR - Futura HD" tvg-name="FUTURA [HD]" tvg-logo="http://cc90.one/AGV" group-title="Canais | Abertos",FUTURA [HD]
+http://cdn50.vip:80/dgp56418/urf62968/51.ts
+#EXTINF:-1 tvg-id="BR - Futura" tvg-name="FUTURA [SD]" tvg-logo="http://cc90.one/AHJ" group-title="Canais | Abertos",FUTURA [SD]
+http://cdn50.vip:80/dgp56418/urf62968/66.ts
+#EXTINF:-1 tvg-id="BR - NSC TV Joinville HD" tvg-name="Record TV Joinville (RIC TV) [FHD]" group-title="Canais | Abertos",Record TV Joinville (RIC TV) [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/295696.ts
+#EXTINF:-1 tvg-name="Record TV Joinville (RIC TV) [HD]" tvg-logo="http://cc90.one/OAO0" group-title="Canais | Abertos",Record TV Joinville (RIC TV) [HD]
+http://cdn50.vip:80/dgp56418/urf62968/295710.ts
+#EXTINF:-1 tvg-id="BR - Record TV Bahia" tvg-name="RECORDTV BA [HD]" tvg-logo="http://cc90.one/AHF" group-title="Canais | Abertos",RECORDTV BA [HD]
+http://cdn50.vip:80/dgp56418/urf62968/61.ts
+#EXTINF:-1 tvg-id="BR - RecordTV Belém" tvg-name="RECORDTV BELEM [HD]" tvg-logo="http://cc90.one/AHG" group-title="Canais | Abertos",RECORDTV BELEM [HD]
+http://cdn50.vip:80/dgp56418/urf62968/62.ts
+#EXTINF:-1 tvg-id="BR - Record TV Cabrália HD" tvg-name="RECORDTV CABRALIA BAHIA [HD]" tvg-logo="http://cc90.one/JYZ0" group-title="Canais | Abertos",RECORDTV CABRALIA BAHIA [HD]
+http://cdn50.vip:80/dgp56418/urf62968/175466.ts
+#EXTINF:-1 tvg-id="BR - TV Cidade" tvg-name="RECORDTV CIDADE [HD]" tvg-logo="http://cc90.one/AKE9" group-title="Canais | Abertos",RECORDTV CIDADE [HD]
+http://cdn50.vip:80/dgp56418/urf62968/186199.ts
+#EXTINF:-1 tvg-id="BR - TV Cidade" tvg-name="RECORDTV CIDADE [SD]" tvg-logo="http://cc90.one/AKE8" group-title="Canais | Abertos",RECORDTV CIDADE [SD]
+http://cdn50.vip:80/dgp56418/urf62968/186198.ts
+#EXTINF:-1 tvg-id="BR - Record TV Brasília HD" tvg-name="RECORDTV DF [HD]" tvg-logo="http://cc90.one/AHE" group-title="Canais | Abertos",RECORDTV DF [HD]
+http://cdn50.vip:80/dgp56418/urf62968/60.ts
+#EXTINF:-1 tvg-id="BR - Record TV Goiás" tvg-name="RECORDTV GO [FHD]" tvg-logo="http://cc90.one/VBK" group-title="Canais | Abertos",RECORDTV GO [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/120717.ts
+#EXTINF:-1 tvg-id="BR - Record TV Goiás" tvg-name="RECORDTV GO [HD]" tvg-logo="http://cc90.one/AHH" group-title="Canais | Abertos",RECORDTV GO [HD]
+http://cdn50.vip:80/dgp56418/urf62968/63.ts
+#EXTINF:-1 tvg-id="BR - Record TV Itapoan HD" tvg-name="RECORDTV ITAPOAN (BAHIA) [HD]" tvg-logo="http://cc90.one/VBE" group-title="Canais | Abertos",RECORDTV ITAPOAN (BAHIA) [HD]
+http://cdn50.vip:80/dgp56418/urf62968/69086.ts
+#EXTINF:-1 tvg-id="BR - Record TV Minas" tvg-name="RECORDTV MG [HD]" tvg-logo="http://cc90.one/AHC" group-title="Canais | Abertos",RECORDTV MG [HD]
+http://cdn50.vip:80/dgp56418/urf62968/58.ts
+#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RECORDTV RJ [FHD]" tvg-logo="http://cc90.one/VBD" group-title="Canais | Abertos",RECORDTV RJ [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/50880.ts
+#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RECORDTV RJ [HD]" tvg-logo="http://cc90.one/AHB" group-title="Canais | Abertos",RECORDTV RJ [HD]
+http://cdn50.vip:80/dgp56418/urf62968/57.ts
+#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RECORDTV RJ [SD]" tvg-logo="http://cc90.one/AHT" group-title="Canais | Abertos",RECORDTV RJ [SD]
+http://cdn50.vip:80/dgp56418/urf62968/76.ts
+#EXTINF:-1 tvg-id="BR - Record TV RS" tvg-name="RECORDTV RS [FHD]" tvg-logo="http://cc90.one/VBH" group-title="Canais | Abertos",RECORDTV RS [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/120714.ts
+#EXTINF:-1 tvg-id="BR - Record TV RS" tvg-name="RECORDTV RS [HD]" tvg-logo="http://cc90.one/AHD" group-title="Canais | Abertos",RECORDTV RS [HD]
+http://cdn50.vip:80/dgp56418/urf62968/59.ts
+#EXTINF:-1 tvg-id="BR - Record TV RS" tvg-name="RECORDTV RS [SD]" tvg-logo="http://cc90.one/JZB3" group-title="Canais | Abertos",RECORDTV RS [SD]
+http://cdn50.vip:80/dgp56418/urf62968/207356.ts
+#EXTINF:-1 tvg-id="BR - TV Atalaia" tvg-name="RECORDTV SERGIPE (ATALAIA) [HD]" tvg-logo="http://cc90.one/VBC" group-title="Canais | Abertos",RECORDTV SERGIPE (ATALAIA) [HD]
+http://cdn50.vip:80/dgp56418/urf62968/47374.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-name="RECORDTV SP [FHD]" tvg-logo="http://cc90.one/AGQ" group-title="Canais | Abertos",RECORDTV SP [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/45.ts
+#EXTINF:-1 tvg-id="BR - RecordTV São Paulo HD" tvg-name="RECORDTV SP [FHD][H265]" tvg-logo="http://cc90.one/VAY" group-title="Canais | Abertos",RECORDTV SP [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/30178.ts
+#EXTINF:-1 tvg-id="BR - RecordTV São Paulo HD" tvg-name="RECORDTV SP [HD]" tvg-logo="http://cc90.one/AGW" group-title="Canais | Abertos",RECORDTV SP [HD]
+http://cdn50.vip:80/dgp56418/urf62968/52.ts
+#EXTINF:-1 tvg-id="BR - RecordTV São Paulo HD" tvg-name="RECORDTV SP [SD]" tvg-logo="http://cc90.one/AHK" group-title="Canais | Abertos",RECORDTV SP [SD]
+http://cdn50.vip:80/dgp56418/urf62968/67.ts
+#EXTINF:-1 tvg-id="BR - Record TV Campinas" tvg-name="RECORDTV THATHI CAMPINAS [FHD]" tvg-logo="http://cc90.one/VBF" group-title="Canais | Abertos",RECORDTV THATHI CAMPINAS [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/92667.ts
+#EXTINF:-1 tvg-id="BR - Record TV Campinas" tvg-name="RECORDTV THATHI CAMPINAS [HD]" tvg-logo="http://cc90.one/VBA" group-title="Canais | Abertos",RECORDTV THATHI CAMPINAS [HD]
+http://cdn50.vip:80/dgp56418/urf62968/32542.ts
+#EXTINF:-1 tvg-id="BR - Rede Brasil HD" tvg-name="Rede Brasil [HD]" tvg-logo="http://cc90.one/NRM3" group-title="Canais | Abertos",Rede Brasil [HD]
+http://cdn50.vip:80/dgp56418/urf62968/300986.ts
+#EXTINF:-1 tvg-id="BR - Rede Brasil" tvg-name="REDE BRASIL [SD]" tvg-logo="http://cc90.one/AIE" group-title="Canais | Abertos",REDE BRASIL [SD]
+http://cdn50.vip:80/dgp56418/urf62968/87.ts
+#EXTINF:-1 tvg-id="BR - RedeTV! HD" tvg-name="REDETV! [FHD]" tvg-logo="http://cc90.one/AGS" group-title="Canais | Abertos",REDETV! [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/48.ts
+#EXTINF:-1 tvg-id="BR - RedeTV! HD" tvg-name="REDETV! [FHD][H265]" tvg-logo="http://cc90.one/VAZ" group-title="Canais | Abertos",REDETV! [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/30180.ts
+#EXTINF:-1 tvg-id="BR - RedeTV! HD" tvg-name="REDETV! [HD]" tvg-logo="http://cc90.one/AGY" group-title="Canais | Abertos",REDETV! [HD]
+http://cdn50.vip:80/dgp56418/urf62968/54.ts
+#EXTINF:-1 tvg-id="BR - RedeTV! HD" tvg-name="REDETV! [SD]" tvg-logo="http://cc90.one/AHM" group-title="Canais | Abertos",REDETV! [SD]
+http://cdn50.vip:80/dgp56418/urf62968/69.ts
+#EXTINF:-1 tvg-id="BR - TV Alterosa HD" tvg-name="SBT Alterosa [FHD]" tvg-logo="http://cc90.one/NRK5" group-title="Canais | Abertos",SBT Alterosa [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/296293.ts
+#EXTINF:-1 tvg-id="BR - TV Alterosa HD" tvg-name="SBT Alterosa [HD]" tvg-logo="http://cc90.one/NRK6" group-title="Canais | Abertos",SBT Alterosa [HD]
+http://cdn50.vip:80/dgp56418/urf62968/296294.ts
+#EXTINF:-1 tvg-id="tv.aratu.br" tvg-name="SBT Bahia TV Aratu [FHD]" tvg-logo="http://cc90.one/MXO3" group-title="Canais | Abertos",SBT Bahia TV Aratu [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/273618.ts
+#EXTINF:-1 tvg-name="SBT Bahia [FHD]" tvg-logo="http://cc90.one/MXO4" group-title="Canais | Abertos",SBT Bahia [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/273619.ts
+#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ [FHD]" tvg-logo="http://cc90.one/VBX" group-title="Canais | Abertos",SBT RJ [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/50875.ts
+#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ [HD]" tvg-logo="http://cc90.one/VBW" group-title="Canais | Abertos",SBT RJ [HD]
+http://cdn50.vip:80/dgp56418/urf62968/50874.ts
+#EXTINF:-1 tvg-id="BR - SBT RS" tvg-name="SBT RS [HD]" tvg-logo="http://cc90.one/VBV" group-title="Canais | Abertos",SBT RS [HD]
+http://cdn50.vip:80/dgp56418/urf62968/49111.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-name="SBT SP [FHD]" tvg-logo="http://cc90.one/VBQ" group-title="Canais | Abertos",SBT SP [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/46.ts
+#EXTINF:-1 tvg-id="BR - SBT São Paulo HD" tvg-name="SBT SP [HD]" tvg-logo="http://cc90.one/AGZ" group-title="Canais | Abertos",SBT SP [HD]
+http://cdn50.vip:80/dgp56418/urf62968/55.ts
+#EXTINF:-1 tvg-id="BR - SBT São Paulo HD" tvg-name="SBT SP [SD]" tvg-logo="http://cc90.one/JYY9" group-title="Canais | Abertos",SBT SP [SD]
+http://cdn50.vip:80/dgp56418/urf62968/174142.ts
+#EXTINF:-1 tvg-id="BR - TV Jangadeiro" tvg-name="SBT TV JANGADEIRO [HD]" tvg-logo="http://cc90.one/JYY1" group-title="Canais | Abertos",SBT TV JANGADEIRO [HD]
+http://cdn50.vip:80/dgp56418/urf62968/134102.ts
+#EXTINF:-1 tvg-id="BR - TV Brasil HD" tvg-name="TV BRASIL [SD]" tvg-logo="http://cc90.one/AIG" group-title="Canais | Abertos",TV BRASIL [SD]
+http://cdn50.vip:80/dgp56418/urf62968/89.ts
+#EXTINF:-1 tvg-id="BR - Cultura HD" tvg-name="TV CULTURA [FHD]" tvg-logo="http://cc90.one/AGR" group-title="Canais | Abertos",TV CULTURA [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/47.ts
+#EXTINF:-1 tvg-id="BR - Cultura HD" tvg-name="TV CULTURA [FHD][H265]" tvg-logo="http://cc90.one/ONS" group-title="Canais | Abertos",TV CULTURA [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/30183.ts
+#EXTINF:-1 tvg-id="BR - Cultura HD" tvg-name="TV CULTURA [HD]" tvg-logo="http://cc90.one/AHI" group-title="Canais | Abertos",TV CULTURA [HD]
+http://cdn50.vip:80/dgp56418/urf62968/64.ts
+#EXTINF:-1 tvg-id="BR - Cultura HD" tvg-name="TV CULTURA [SD]" tvg-logo="http://cc90.one/AIH" group-title="Canais | Abertos",TV CULTURA [SD]
+http://cdn50.vip:80/dgp56418/urf62968/90.ts
+#EXTINF:-1 tvg-id="BR - TV Diário HD" tvg-name="TV DIARIO [HD]" tvg-logo="http://cc90.one/ARF5" group-title="Canais | Abertos",TV DIARIO [HD]
+http://cdn50.vip:80/dgp56418/urf62968/199363.ts
+#EXTINF:-1 tvg-id="BR - TV Diário HD" tvg-name="TV DIARIO [SD]" tvg-logo="http://cc90.one/ARF6" group-title="Canais | Abertos",TV DIARIO [SD]
+http://cdn50.vip:80/dgp56418/urf62968/199364.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.HD.br" tvg-name="TV GAZETA SP [FHD]" tvg-logo="http://cc90.one/AGT" group-title="Canais | Abertos",TV GAZETA SP [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/49.ts
+#EXTINF:-1 tvg-id="BR - TV Gazeta HD" tvg-name="TV GAZETA SP [FHD][H265]" tvg-logo="http://cc90.one/ONU" group-title="Canais | Abertos",TV GAZETA SP [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/30189.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.HD.br" tvg-name="TV GAZETA SP [HD]" tvg-logo="http://cc90.one/AHA" group-title="Canais | Abertos",TV GAZETA SP [HD]
+http://cdn50.vip:80/dgp56418/urf62968/56.ts
+#EXTINF:-1 tvg-id="BR - TV JUSTIÇA" tvg-name="TV JUSTICA [SD]" tvg-logo="http://cc90.one/AHQ" group-title="Canais | Abertos",TV JUSTICA [SD]
+http://cdn50.vip:80/dgp56418/urf62968/73.ts
+#EXTINF:-1 tvg-id="BR - TV SENADO" tvg-name="TV SENADO [SD]" tvg-logo="http://cc90.one/AHP" group-title="Canais | Abertos",TV SENADO [SD]
+http://cdn50.vip:80/dgp56418/urf62968/72.ts
+#EXTINF:-1 tvg-name="STB PR [HD]" tvg-logo="http://cc90.one/NNS9" group-title="Canais | Abertos",STB PR [HD]
+http://cdn50.vip:80/dgp56418/urf62968/303873.ts
+#EXTINF:-1 tvg-name="SBT Paraná [FHD]" tvg-logo="http://cc90.one/NNS9" group-title="Canais | Abertos",SBT Paraná [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/303874.ts
+#EXTINF:-1 tvg-name="Record TV PR [HD]" tvg-logo="http://cc90.one/JZA5" group-title="Canais | Abertos",Record TV PR [HD]
+http://cdn50.vip:80/dgp56418/urf62968/303875.ts
+#EXTINF:-1 tvg-id="BR - Record TV Minas" tvg-name="RECORDTV MG [FHD]" tvg-logo="http://cc90.one/AHC" group-title="Canais | Abertos",RECORDTV MG [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/315652.ts
+#EXTINF:-1 tvg-name="Globo TV Diário Mogi [FHD]" tvg-logo="http://cc90.one/PGV9" group-title="Canais | Abertos",Globo TV Diário Mogi [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/317633.ts
+#EXTINF:-1 tvg-id="BR - CNT" tvg-name="CNT [HD]" tvg-logo="http://cc90.one/PHD8" group-title="Canais | Abertos",CNT [HD]
+http://cdn50.vip:80/dgp56418/urf62968/317740.ts
+#EXTINF:-1 tvg-id="BR - CNT HD" tvg-name="CNT [SD]" tvg-logo="http://cc90.one/PHD9" group-title="Canais | Abertos",CNT [SD]
+http://cdn50.vip:80/dgp56418/urf62968/317741.ts
+#EXTINF:-1 tvg-id="BR - Record TV Santos" tvg-name="RECORD SP INTERIOR [HD]" tvg-logo="http://cc90.one/PIQ5" group-title="Canais | Abertos",RECORD SP INTERIOR [HD]
+http://cdn50.vip:80/dgp56418/urf62968/317742.ts
+#EXTINF:-1 tvg-id="BR - Record TV Santos" tvg-name="RECORD SP INTERIOR [FHD][H265]" tvg-logo="http://cc90.one/PIQ6" group-title="Canais | Abertos",RECORD SP INTERIOR [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/317743.ts
+#EXTINF:-1 tvg-name="TV Câmara [SD]" tvg-logo="http://cc90.one/PNF0" group-title="Canais | Abertos",TV Câmara [SD]
+http://cdn50.vip:80/dgp56418/urf62968/320389.ts
+#EXTINF:-1 tvg-name="TV Câmara [FHD]" tvg-logo="http://cc90.one/PNF1" group-title="Canais | Abertos",TV Câmara [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/320390.ts
+#EXTINF:-1 tvg-id="BR - Band Campinas HD" tvg-name="BAND CAMPINAS [FHD]" tvg-logo="http://cc90.one/JZA1" group-title="Canais | Abertos",BAND CAMPINAS [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/199612.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI [FHD]" tvg-logo="http://cc90.one/JZA2" group-title="Canais | Abertos",CANAL DO BOI [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/199614.ts
+#EXTINF:-1 tvg-id="BR - Record TV Bahia" tvg-name="RECORDTV BA [FHD]" tvg-logo="http://cc90.one/JZA4" group-title="Canais | Abertos",RECORDTV BA [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/199616.ts
+#EXTINF:-1 tvg-id="BR - TV Cidade" tvg-name="RECORDTV CIDADE [FHD][H265]" tvg-logo="http://cc90.one/JYZ2" group-title="Canais | Abertos",RECORDTV CIDADE [FHD][H265]
+http://cdn50.vip:80/dgp56418/urf62968/186197.ts
+#EXTINF:-1 tvg-id="BR - SBT RS" tvg-name="SBT RS [FHD]" tvg-logo="http://cc90.one/JZA6" group-title="Canais | Abertos",SBT RS [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/199659.ts
+#EXTINF:-1 tvg-id="BR - TV Jangadeiro" tvg-name="SBT TV JANGADEIRO [FHD]" tvg-logo="http://cc90.one/JYY0" group-title="Canais | Abertos",SBT TV JANGADEIRO [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/134101.ts
+#EXTINF:-1 tvg-id="BR - TV Diário HD" tvg-name="TV DIARIO [FHD]" tvg-logo="http://cc90.one/ARF4" group-title="Canais | Abertos",TV DIARIO [FHD]
+http://cdn50.vip:80/dgp56418/urf62968/199362.ts
