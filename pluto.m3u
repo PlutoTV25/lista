@@ -1,4 +1,374 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://cc90.one/ASL" group-title="Canais | Globo Sul",GLOBO NSC TV BLUMENAU [FHD]
+http://tvdigital.online:80/live/emerson/emerson/311.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATQ" group-title="Canais | Globo Sul",GLOBO NSC TV BLUMENAU [HD]
+http://tvdigital.online:80/live/emerson/emerson/312.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUR" group-title="Canais | Globo Sul",GLOBO NSC TV BLUMENAU [SD]
+http://tvdigital.online:80/live/emerson/emerson/313.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEJ" group-title="Canais | Globo Sul",GLOBO NSC TV CRICIUMA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/314.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEC" group-title="Canais | Globo Sul",GLOBO NSC TV CRICIUMA [HD]
+http://tvdigital.online:80/live/emerson/emerson/315.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGG" group-title="Canais | Globo Sul",GLOBO NSC TV CRICIUMA [SD]
+http://tvdigital.online:80/live/emerson/emerson/316.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASM" group-title="Canais | Globo Sul",GLOBO RBS TV CAXIAS DO SUL [FHD]
+http://tvdigital.online:80/live/emerson/emerson/317.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATR" group-title="Canais | Globo Sul",GLOBO RBS TV CAXIAS DO SUL [HD]
+http://tvdigital.online:80/live/emerson/emerson/318.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUS" group-title="Canais | Globo Sul",GLOBO RBS TV CAXIAS DO SUL [SD]
+http://tvdigital.online:80/live/emerson/emerson/319.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCP" group-title="Canais | Globo Sul",GLOBO RBS TV PELOTAS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/320.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATS" group-title="Canais | Globo Sul",GLOBO RBS TV PELOTAS [HD]
+http://tvdigital.online:80/live/emerson/emerson/321.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDA" group-title="Canais | Globo Sul",GLOBO RBS TV PELOTAS [SD]
+http://tvdigital.online:80/live/emerson/emerson/322.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEQ" group-title="Canais | Globo Sul",GLOBO RBS TV SANTA MARIA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/323.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEH" group-title="Canais | Globo Sul",GLOBO RBS TV SANTA MARIA [HD]
+http://tvdigital.online:80/live/emerson/emerson/324.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEI" group-title="Canais | Globo Sul",GLOBO RBS TV SANTA MARIA [SD]
+http://tvdigital.online:80/live/emerson/emerson/325.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGA" group-title="Canais | Globo Sul",GLOBO RPC CASCAVEL [FHD]
+http://tvdigital.online:80/live/emerson/emerson/335.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFA" group-title="Canais | Globo Sul",GLOBO RPC CASCAVEL [HD]
+http://tvdigital.online:80/live/emerson/emerson/336.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JZB2" group-title="Canais | Globo Sul",GLOBO RPC CASCAVEL [SD]
+http://tvdigital.online:80/live/emerson/emerson/337.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCO" group-title="Canais | Globo Sul",GLOBO TV NSC JOINVILLE [FHD]
+http://tvdigital.online:80/live/emerson/emerson/410.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCS" group-title="Canais | Globo Sul",GLOBO TV NSC JOINVILLE [HD]
+http://tvdigital.online:80/live/emerson/emerson/411.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUT" group-title="Canais | Globo Sul",GLOBO TV NSC JOINVILLE [SD]
+http://tvdigital.online:80/live/emerson/emerson/412.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASB" group-title="Canais | Globo Sul",GLOBO TV NSC TV FLORIANOPOLIS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/413.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASW" group-title="Canais | Globo Sul",GLOBO TV NSC TV FLORIANOPOLIS [HD]
+http://tvdigital.online:80/live/emerson/emerson/414.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUA" group-title="Canais | Globo Sul",GLOBO TV NSC TV FLORIANOPOLIS [SD]
+http://tvdigital.online:80/live/emerson/emerson/415.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JYX6" group-title="Canais | Globo Sul",GLOBO TV PASSO FUNDO [HD]
+http://tvdigital.online:80/live/emerson/emerson/416.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JYX7" group-title="Canais | Globo Sul",GLOBO TV PASSO FUNDO [SD]
+http://tvdigital.online:80/live/emerson/emerson/417.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASC" group-title="Canais | Globo Sul",GLOBO TV RBS PORTO ALEGRE [FHD]
+http://tvdigital.online:80/live/emerson/emerson/418.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASX" group-title="Canais | Globo Sul",GLOBO TV RBS PORTO ALEGRE [HD]
+http://tvdigital.online:80/live/emerson/emerson/419.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDV" group-title="Canais | Globo Sul",GLOBO TV RBS PORTO ALEGRE [SD]
+http://tvdigital.online:80/live/emerson/emerson/420.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASO" group-title="Canais | Globo Sul",GLOBO TV RIO SUL [FHD]
+http://tvdigital.online:80/live/emerson/emerson/424.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATU" group-title="Canais | Globo Sul",GLOBO TV RIO SUL [HD]
+http://tvdigital.online:80/live/emerson/emerson/425.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDB" group-title="Canais | Globo Sul",GLOBO TV RIO SUL [SD]
+http://tvdigital.online:80/live/emerson/emerson/426.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ARU" group-title="Canais | Globo Sul",GLOBO TV RPC FOZ DO IGUACU [FHD]
+http://tvdigital.online:80/live/emerson/emerson/427.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATF" group-title="Canais | Globo Sul",GLOBO TV RPC FOZ DO IGUACU [HD]
+http://tvdigital.online:80/live/emerson/emerson/428.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUI" group-title="Canais | Globo Sul",GLOBO TV RPC FOZ DO IGUACU [SD]
+http://tvdigital.online:80/live/emerson/emerson/429.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ARR" group-title="Canais | Globo Sul",GLOBO TV RPC MARINGA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/430.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASR" group-title="Canais | Globo Sul",GLOBO TV RPC MARINGA [HD]
+http://tvdigital.online:80/live/emerson/emerson/431.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCT" group-title="Canais | Globo Sul",GLOBO TV RPC MARINGA [SD]
+http://tvdigital.online:80/live/emerson/emerson/432.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEK" group-title="Canais | Globo Sul",GLOBO TV RPC PARANAVAI [FHD]
+http://tvdigital.online:80/live/emerson/emerson/433.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VED" group-title="Canais | Globo Sul",GLOBO TV RPC PARANAVAI [HD]
+http://tvdigital.online:80/live/emerson/emerson/434.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGF" group-title="Canais | Globo Sul",GLOBO TV RPC PARANAVAI [SD]
+http://tvdigital.online:80/live/emerson/emerson/435.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/PKM1" group-title="Canais | Globo Sul",Globo RPC TV Ponta Grossa [FHD]
+http://tvdigital.online:80/live/emerson/emerson/2461.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/PKM2" group-title="Canais | Globo Sul",Globo RPC TV Ponta Grossa [HD]
+http://tvdigital.online:80/live/emerson/emerson/2462.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/PKM3" group-title="Canais | Globo Sul",Globo RPC TV Ponta Grossa [SD]
+http://tvdigital.online:80/live/emerson/emerson/2463.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JYX5" group-title="Canais | Globo Sul",GLOBO TV PASSO FUNDO [FHD]
+http://tvdigital.online:80/live/emerson/emerson/3771.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGL" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirao Preto [FHD]
+http://tvdigital.online:80/live/emerson/emerson/283.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AKE6" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirao Preto [FHD][H265]
+http://tvdigital.online:80/live/emerson/emerson/284.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AKE6" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirao Preto [FHD][H265]
+http://tvdigital.online:80/live/emerson/emerson/284.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCU" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirao Preto [SD]
+http://tvdigital.online:80/live/emerson/emerson/286.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEN" group-title="Canais | Globo Sudeste",GLOBO INTEGRACAO ARAXA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/287.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEF" group-title="Canais | Globo Sudeste",GLOBO INTEGRACAO ARAXA [HD]
+http://tvdigital.online:80/live/emerson/emerson/288.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGD" group-title="Canais | Globo Sudeste",GLOBO INTEGRACAO ARAXA [SD]
+http://tvdigital.online:80/live/emerson/emerson/289.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEL" group-title="Canais | Globo Sudeste",GLOBO INTER TV ALTO LITORAL [FHD]
+http://tvdigital.online:80/live/emerson/emerson/290.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATM" group-title="Canais | Globo Sudeste",GLOBO INTER TV ALTO LITORAL [HD]
+http://tvdigital.online:80/live/emerson/emerson/291.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUO" group-title="Canais | Globo Sudeste",GLOBO INTER TV ALTO LITORAL [SD]
+http://tvdigital.online:80/live/emerson/emerson/292.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASJ" group-title="Canais | Globo Sudeste",GLOBO INTER TV DOS VALES [FHD]
+http://tvdigital.online:80/live/emerson/emerson/293.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATN" group-title="Canais | Globo Sudeste",GLOBO INTER TV DOS VALES [HD]
+http://tvdigital.online:80/live/emerson/emerson/294.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUP" group-title="Canais | Globo Sudeste",GLOBO INTER TV DOS VALES [SD]
+http://tvdigital.online:80/live/emerson/emerson/295.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCN" group-title="Canais | Globo Sudeste",GLOBO INTER TV GRANDE MINAS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/296.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATO" group-title="Canais | Globo Sudeste",GLOBO INTER TV GRANDE MINAS [HD]
+http://tvdigital.online:80/live/emerson/emerson/297.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASK" group-title="Canais | Globo Sudeste",GLOBO INTER TV SERRA MAR [FHD]
+http://tvdigital.online:80/live/emerson/emerson/298.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATP" group-title="Canais | Globo Sudeste",GLOBO INTER TV SERRA MAR [HD]
+http://tvdigital.online:80/live/emerson/emerson/299.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCZ" group-title="Canais | Globo Sudeste",GLOBO INTER TV SERRA MAR [SD]
+http://tvdigital.online:80/live/emerson/emerson/300.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCM" group-title="Canais | Globo Sudeste",Globo TEM S. J. Do Rio Preto [FHD]
+http://tvdigital.online:80/live/emerson/emerson/344.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATD" group-title="Canais | Globo Sudeste",Globo TEM S. J. Do Rio Preto [HD]
+http://tvdigital.online:80/live/emerson/emerson/345.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUG" group-title="Canais | Globo Sudeste",Globo TEM S. J. Do Rio Preto [SD]
+http://tvdigital.online:80/live/emerson/emerson/346.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ARY" group-title="Canais | Globo Sudeste",GLOBO TV EPTV CAMPINAS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/368.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCQ" group-title="Canais | Globo Sudeste",GLOBO TV EPTV CAMPINAS [HD]
+http://tvdigital.online:80/live/emerson/emerson/369.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATY" group-title="Canais | Globo Sudeste",GLOBO TV EPTV CAMPINAS [SD]
+http://tvdigital.online:80/live/emerson/emerson/370.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDJ" group-title="Canais | Globo Sudeste",GLOBO TV EPTV RIBEIRAO PRETO [FHD][H265]
+http://tvdigital.online:80/live/emerson/emerson/371.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AST" group-title="Canais | Globo Sudeste",GLOBO TV EPTV RIBEIRAO PRETO [HD]
+http://tvdigital.online:80/live/emerson/emerson/372.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDQ" group-title="Canais | Globo Sudeste",GLOBO TV EPTV RIBEIRAO PRETO [SD]
+http://tvdigital.online:80/live/emerson/emerson/373.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JZA9" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SAO CARLOS [HD]
+http://tvdigital.online:80/live/emerson/emerson/374.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUZ" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SAO CARLOS [SD]
+http://tvdigital.online:80/live/emerson/emerson/375.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFV" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SUL DE MINAS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/376.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFU" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SUL DE MINAS [HD]
+http://tvdigital.online:80/live/emerson/emerson/377.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFT" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SUL DE MINAS [SD]
+http://tvdigital.online:80/live/emerson/emerson/378.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGB" group-title="Canais | Globo Sudeste",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [FHD]
+http://tvdigital.online:80/live/emerson/emerson/379.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEU" group-title="Canais | Globo Sudeste",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [HD]
+http://tvdigital.online:80/live/emerson/emerson/380.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VET" group-title="Canais | Globo Sudeste",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [SD]
+http://tvdigital.online:80/live/emerson/emerson/381.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASI" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA SUL ES [FHD]
+http://tvdigital.online:80/live/emerson/emerson/385.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATL" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA SUL ES [HD]
+http://tvdigital.online:80/live/emerson/emerson/386.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ARW" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA VITORIA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/387.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATH" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA VITORIA [HD]
+http://tvdigital.online:80/live/emerson/emerson/388.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUJ" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA VITORIA [SD]
+http://tvdigital.online:80/live/emerson/emerson/389.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFI" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO JUIZ DE FORA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/390.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFH" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO JUIZ DE FORA [HD]
+http://tvdigital.online:80/live/emerson/emerson/391.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JZB1" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO JUIZ DE FORA [SD]
+http://tvdigital.online:80/live/emerson/emerson/392.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGV" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO UBERABA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/393.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFB" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO UBERABA [HD]
+http://tvdigital.online:80/live/emerson/emerson/394.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGW" group-title="Canais | Globo Sudeste",GLOBO TV INTEGRACAO UBERABA [SD]
+http://tvdigital.online:80/live/emerson/emerson/395.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFR" group-title="Canais | Globo Sudeste",GLOBO TV TEM BAURU [FHD]
+http://tvdigital.online:80/live/emerson/emerson/442.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFQ" group-title="Canais | Globo Sudeste",GLOBO TV TEM BAURU [HD]
+http://tvdigital.online:80/live/emerson/emerson/443.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUW" group-title="Canais | Globo Sudeste",GLOBO TV TEM BAURU [SD]
+http://tvdigital.online:80/live/emerson/emerson/444.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGI" group-title="Canais | Globo Sudeste",GLOBO TV TEM ITAPETININGA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/445.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGH" group-title="Canais | Globo Sudeste",GLOBO TV TEM ITAPETININGA [HD]
+http://tvdigital.online:80/live/emerson/emerson/446.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDR" group-title="Canais | Globo Sudeste",GLOBO TV TEM ITAPETININGA [SD]
+http://tvdigital.online:80/live/emerson/emerson/447.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFZ" group-title="Canais | Globo Sudeste",GLOBO TV TEM SOROCABA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/448.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFY" group-title="Canais | Globo Sudeste",GLOBO TV TEM SOROCABA [HD]
+http://tvdigital.online:80/live/emerson/emerson/449.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDC" group-title="Canais | Globo Sudeste",GLOBO TV TEM SOROCABA [SD]
+http://tvdigital.online:80/live/emerson/emerson/450.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFS" group-title="Canais | Globo Sudeste",GLOBO TV TRIBUNA SANTOS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/451.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VES" group-title="Canais | Globo Sudeste",GLOBO TV TRIBUNA SANTOS [HD]
+http://tvdigital.online:80/live/emerson/emerson/452.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUH" group-title="Canais | Globo Sudeste",GLOBO TV TRIBUNA SANTOS [SD]
+http://tvdigital.online:80/live/emerson/emerson/453.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGK" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA S. J. DOS CAMPOS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/454.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGJ" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA S. J. DOS CAMPOS [HD]
+http://tvdigital.online:80/live/emerson/emerson/455.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCX" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA S. J. DOS CAMPOS [SD]
+http://tvdigital.online:80/live/emerson/emerson/456.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFE" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA TAUBATE [FHD]
+http://tvdigital.online:80/live/emerson/emerson/457.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFD" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA TAUBATE [HD]
+http://tvdigital.online:80/live/emerson/emerson/458.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFW" group-title="Canais | Globo Sudeste",GLOBO TV VANGUARDA TAUBATE [SD]
+http://tvdigital.online:80/live/emerson/emerson/459.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JZA8" group-title="Canais | Globo Sudeste",GLOBO TV EPTV RIBEIRAO PRETO [FHD]
+http://tvdigital.online:80/live/emerson/emerson/3769.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JZB0" group-title="Canais | Globo Sudeste",GLOBO TV EPTV SAO CARLOS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/3770.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEV" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA BOA VISTA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/326.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEW" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA BOA VISTA [HD]
+http://tvdigital.online:80/live/emerson/emerson/327.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JYY3" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA BOA VISTA [SD]
+http://tvdigital.online:80/live/emerson/emerson/328.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEY" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA PORTO VELHO [FHD]
+http://tvdigital.online:80/live/emerson/emerson/329.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEX" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA PORTO VELHO [HD]
+http://tvdigital.online:80/live/emerson/emerson/330.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JYY2" group-title="Canais | Globo Norte",GLOBO REDE AMAZONICA PORTO VELHO [SD]
+http://tvdigital.online:80/live/emerson/emerson/331.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFX" group-title="Canais | Globo Norte",GLOBO TV LIBERAL BELEM [FHD]
+http://tvdigital.online:80/live/emerson/emerson/396.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDX" group-title="Canais | Globo Norte",GLOBO TV LIBERAL BELEM [HD]
+http://tvdigital.online:80/live/emerson/emerson/397.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUX" group-title="Canais | Globo Norte",GLOBO TV LIBERAL BELEM [SD]
+http://tvdigital.online:80/live/emerson/emerson/398.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFF" group-title="Canais | Globo Norte",GLOBO TV REDE AMAZONICA MANAUS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/421.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEZ" group-title="Canais | Globo Norte",GLOBO TV REDE AMAZONICA MANAUS [HD]
+http://tvdigital.online:80/live/emerson/emerson/422.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDP" group-title="Canais | Globo Norte",GLOBO TV REDE AMAZONICA MANAUS [SD]
+http://tvdigital.online:80/live/emerson/emerson/423.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASP" group-title="Canais | Globo Norte",GLOBO TV SANTA CRUZ [FHD]
+http://tvdigital.online:80/live/emerson/emerson/436.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATV" group-title="Canais | Globo Norte",GLOBO TV SANTA CRUZ [HD]
+http://tvdigital.online:80/live/emerson/emerson/437.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUV" group-title="Canais | Globo Norte",GLOBO TV SANTA CRUZ [SD]
+http://tvdigital.online:80/live/emerson/emerson/438.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VER" group-title="Canais | Globo Nordeste",GLOBO INTERTV CABUGI NATAL [FHD]
+http://tvdigital.online:80/live/emerson/emerson/301.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDD" group-title="Canais | Globo Nordeste",GLOBO INTERTV CABUGI NATAL [HD]
+http://tvdigital.online:80/live/emerson/emerson/302.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDO" group-title="Canais | Globo Nordeste",GLOBO INTERTV CABUGI NATAL [SD]
+http://tvdigital.online:80/live/emerson/emerson/303.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEP" group-title="Canais | Globo Nordeste",GLOBO TV ASA BRANCA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/350.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VGC" group-title="Canais | Globo Nordeste",GLOBO TV ASA BRANCA [HD]
+http://tvdigital.online:80/live/emerson/emerson/351.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDN" group-title="Canais | Globo Nordeste",GLOBO TV ASA BRANCA [FHD][H265]
+http://tvdigital.online:80/live/emerson/emerson/352.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASE" group-title="Canais | Globo Nordeste",GLOBO TV BAHIA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/353.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATC" group-title="Canais | Globo Nordeste",GLOBO TV BAHIA [HD]
+http://tvdigital.online:80/live/emerson/emerson/354.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCW" group-title="Canais | Globo Nordeste",GLOBO TV BAHIA [SD]
+http://tvdigital.online:80/live/emerson/emerson/355.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASN" group-title="Canais | Globo Nordeste",GLOBO TV CABO BRANCO [FHD]
+http://tvdigital.online:80/live/emerson/emerson/359.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATT" group-title="Canais | Globo Nordeste",GLOBO TV CABO BRANCO [HD]
+http://tvdigital.online:80/live/emerson/emerson/360.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUU" group-title="Canais | Globo Nordeste",GLOBO TV CABO BRANCO [SD]
+http://tvdigital.online:80/live/emerson/emerson/361.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ARV" group-title="Canais | Globo Nordeste",GLOBO TV CLUBE TERESINA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/365.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATG" group-title="Canais | Globo Nordeste",GLOBO TV CLUBE TERESINA [HD]
+http://tvdigital.online:80/live/emerson/emerson/366.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCY" group-title="Canais | Globo Nordeste",GLOBO TV CLUBE TERESINA [SD]
+http://tvdigital.online:80/live/emerson/emerson/367.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASH" group-title="Canais | Globo Nordeste",GLOBO TV GAZETA ALAGOAS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/382.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCR" group-title="Canais | Globo Nordeste",GLOBO TV GAZETA ALAGOAS [HD]
+http://tvdigital.online:80/live/emerson/emerson/383.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUN" group-title="Canais | Globo Nordeste",GLOBO TV GAZETA ALAGOAS [SD]
+http://tvdigital.online:80/live/emerson/emerson/384.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/NRM0" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais [FHD]
+http://tvdigital.online:80/live/emerson/emerson/399.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/NRM1" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais [HD]
+http://tvdigital.online:80/live/emerson/emerson/400.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASF" group-title="Canais | Globo Nordeste",GLOBO TV MIRANTE SAO LUIS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/401.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATJ" group-title="Canais | Globo Nordeste",GLOBO TV MIRANTE SAO LUIS [HD]
+http://tvdigital.online:80/live/emerson/emerson/402.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUL" group-title="Canais | Globo Nordeste",GLOBO TV MIRANTE SAO LUIS [SD]
+http://tvdigital.online:80/live/emerson/emerson/403.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASA" group-title="Canais | Globo Nordeste",GLOBO TV NORDESTE [FHD]
+http://tvdigital.online:80/live/emerson/emerson/407.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASV" group-title="Canais | Globo Nordeste",GLOBO TV NORDESTE [HD]
+http://tvdigital.online:80/live/emerson/emerson/408.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCV" group-title="Canais | Globo Nordeste",GLOBO TV NORDESTE [SD]
+http://tvdigital.online:80/live/emerson/emerson/409.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ARX" group-title="Canais | Globo Nordeste",GLOBO TV SERGIPE [FHD]
+http://tvdigital.online:80/live/emerson/emerson/439.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATI" group-title="Canais | Globo Nordeste",GLOBO TV SERGIPE [HD]
+http://tvdigital.online:80/live/emerson/emerson/440.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JZO8" group-title="Canais | Globo Nordeste",GLOBO TV SERGIPE [SD]
+http://tvdigital.online:80/live/emerson/emerson/441.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFM" group-title="Canais | Globo Nordeste",GLOBO TV VERDES MARES FORTALEZA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/460.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VFL" group-title="Canais | Globo Nordeste",GLOBO TV VERDES MARES FORTALEZA [HD]
+http://tvdigital.online:80/live/emerson/emerson/461.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AVB" group-title="Canais | Globo Nordeste",GLOBO TV VERDES MARES FORTALEZA [SD]
+http://tvdigital.online:80/live/emerson/emerson/462.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASD" group-title="Canais | Globo Centro-Oeste",GLOBO TV ANHANGUERA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/347.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATB" group-title="Canais | Globo Centro-Oeste",GLOBO TV ANHANGUERA [HD]
+http://tvdigital.online:80/live/emerson/emerson/348.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDM" group-title="Canais | Globo Centro-Oeste",GLOBO TV ANHANGUERA [SD]
+http://tvdigital.online:80/live/emerson/emerson/349.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEO" group-title="Canais | Globo Centro-Oeste",GLOBO TV CENTRO AMERICA CUIABA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/362.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VEG" group-title="Canais | Globo Centro-Oeste",GLOBO TV CENTRO AMERICA CUIABA [HD]
+http://tvdigital.online:80/live/emerson/emerson/363.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDT" group-title="Canais | Globo Centro-Oeste",GLOBO TV CENTRO AMERICA CUIABA [SD]
+http://tvdigital.online:80/live/emerson/emerson/364.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASG" group-title="Canais | Globo Centro-Oeste",GLOBO TV MORENA CAMPO GRANDE [FHD]
+http://tvdigital.online:80/live/emerson/emerson/404.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATK" group-title="Canais | Globo Centro-Oeste",GLOBO TV MORENA CAMPO GRANDE [HD]
+http://tvdigital.online:80/live/emerson/emerson/405.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUM" group-title="Canais | Globo Centro-Oeste",GLOBO TV MORENA CAMPO GRANDE [SD]
+http://tvdigital.online:80/live/emerson/emerson/406.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ARS" group-title="Canais | Globo Capital",GLOBO CURITIBA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/280.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASZ" group-title="Canais | Globo Capital",GLOBO CURITIBA [HD]
+http://tvdigital.online:80/live/emerson/emerson/281.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUD" group-title="Canais | Globo Capital",GLOBO CURITIBA [SD]
+http://tvdigital.online:80/live/emerson/emerson/282.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ARZ" group-title="Canais | Globo Capital",GLOBO MINAS [FHD]
+http://tvdigital.online:80/live/emerson/emerson/304.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASU" group-title="Canais | Globo Capital",GLOBO MINAS [HD]
+http://tvdigital.online:80/live/emerson/emerson/305.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATZ" group-title="Canais | Globo Capital",GLOBO MINAS [SD]
+http://tvdigital.online:80/live/emerson/emerson/306.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCK" group-title="Canais | Globo Capital",GLOBO RJ [FHD]
+http://tvdigital.online:80/live/emerson/emerson/332.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASY" group-title="Canais | Globo Capital",GLOBO RJ [HD]
+http://tvdigital.online:80/live/emerson/emerson/333.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUC" group-title="Canais | Globo Capital",GLOBO RJ [SD]
+http://tvdigital.online:80/live/emerson/emerson/334.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JYY6" group-title="Canais | Globo Capital",GLOBO SP [FHD]
+http://tvdigital.online:80/live/emerson/emerson/338.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/JYY6" group-title="Canais | Globo Capital",GLOBO SP [FHD]
+http://tvdigital.online:80/live/emerson/emerson/338.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VDL" group-title="Canais | Globo Capital",GLOBO SP [FHD][H265]
+http://tvdigital.online:80/live/emerson/emerson/340.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/MXO2" group-title="Canais | Globo Capital",Globo SP [FHD][HDR]
+http://tvdigital.online:80/live/emerson/emerson/341.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATA" group-title="Canais | Globo Capital",GLOBO SP [HD]
+http://tvdigital.online:80/live/emerson/emerson/342.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/AUE" group-title="Canais | Globo Capital",GLOBO SP [SD]
+http://tvdigital.online:80/live/emerson/emerson/343.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/VCL" group-title="Canais | Globo Capital",GLOBO TV BRASILIA [FHD]
+http://tvdigital.online:80/live/emerson/emerson/356.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ASS" group-title="Canais | Globo Capital",GLOBO TV BRASILIA [HD]
+http://tvdigital.online:80/live/emerson/emerson/357.m3u8
+#EXTINF:-1 tvg-logo="http://cc90.one/ATX" group-title="Canais | Globo Capital",GLOBO TV BRASILIA [SD]
+http://tvdigital.online:80/live/emerson/emerson/358.m3u8
 #EXTINF:-1 tvg-logo="http://cc90.one/AYP" group-title="Canais | Telecine",TELECINE ACTION [FHD]
 http://tvdigital.online:80/live/emerson/emerson/803.m3u8
 #EXTINF:-1 tvg-logo="http://cc90.one/VSQ" group-title="Canais | Telecine",TELECINE ACTION [FHD][H265]
