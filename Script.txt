@@ -1,0 +1,147 @@
+const users = {
+  teste: "teste"
+};
+
+const M3U_URL = "seulinkdogithub";
+
+let streamMap = new Map();
+
+async function parseM3U() {
+  const m3uRes = await fetch(M3U_URL);
+  const m3uText = await m3uRes.text();
+  const lines = m3uText.split("\n");
+
+  let channels = [];
+  let categories = new Map();
+  let categoryIndex = 1;
+  streamMap.clear();
+
+  for (let i = 0; i < lines.length; i++) {
+    const info = lines[i].trim();
+    const streamUrl = lines[i + 1]?.trim();
+
+    if (info.startsWith("#EXTINF") && streamUrl?.startsWith("http")) {
+      const nameMatch = info.match(/tvg-name="([^"]*)"/);
+      const groupMatch = info.match(/group-title="([^"]*)"/);
+
+      const name = nameMatch ? nameMatch[1] : info.split(",")[1]?.trim();
+      const group = groupMatch ? groupMatch[1] : "Sem Categoria";
+
+      if (!categories.has(group)) {
+        categories.set(group, categoryIndex++);
+      }
+
+      const stream_id = channels.length + 1;
+      streamMap.set(stream_id.toString(), streamUrl);
+
+      channels.push({
+        num: stream_id,
+        name: name || `Canal ${stream_id}`,
+        stream_type: "live",
+        stream_id,
+        stream_icon: "",
+        category_id: categories.get(group),
+        custom_sid: "",
+        tv_archive: 0,
+        direct_source: streamUrl
+      });
+    }
+  }
+
+  return { m3uText, channels, categories };
+}
+
+export default {
+  async fetch(request) {
+    const url = new URL(request.url);
+    const path = url.pathname;
+    const params = url.searchParams;
+    const username = params.get("username") || path.split("/")[2];
+    const password = params.get("password") || path.split("/")[3];
+    const action = params.get("action");
+    const type = params.get("type") || "m3u";
+
+    if (!users[username] || users[username] !== password) {
+      return new Response("Unauthorized", { status: 401 });
+    }
+
+    const { m3uText, channels, categories } = await parseM3U();
+
+    if (path.endsWith("/get.php")) {
+      return new Response(m3uText, {
+        headers: {
+          "Content-Type": "application/octet-stream",
+          "Content-Disposition": `attachment; filename=\"${username}.m3u\"`
+        }
+      });
+    }
+
+    if (path.endsWith("/player_api.php")) {
+      const now = Math.floor(Date.now() / 1000);
+
+      if (!action || action === "user_info") {
+        return new Response(JSON.stringify({
+          user_info: {
+            username,
+            password,
+            auth: 1,
+            status: "Active",
+            exp_date: (now + 31536000).toString(),
+            is_trial: "0",
+            active_cons: "0",
+            created_at: now.toString(),
+            max_connections: "1"
+          },
+          server_info: {
+            url: "suaurl.workers.dev",
+            port: "80",
+            https_port: "443",
+            server_protocol: "http",
+            rtmp_port: "1935",
+            timezone: "America/Sao_Paulo",
+            timestamp_now: now,
+            time_now: new Date().toLocaleString("pt-BR")
+          }
+        }), { headers: { "Content-Type": "application/json" } });
+      }
+
+      if (action === "get_live_categories") {
+        const catList = [...categories.entries()].map(([name, id]) => ({
+          category_id: id,
+          category_name: name,
+          parent_id: 0
+        }));
+        return new Response(JSON.stringify(catList), {
+          headers: { "Content-Type": "application/json" }
+        });
+      }
+
+      if (action === "get_live_streams") {
+        return new Response(JSON.stringify(channels), {
+          headers: { "Content-Type": "application/json" }
+        });
+      }
+
+      return new Response("Invalid action", { status: 400 });
+    }
+
+    const liveMatch = path.match(/\/live\/(.*?)\/(.*?)\/(\d+)\.ts/);
+    if (liveMatch) {
+      const [_, user, pass, id] = liveMatch;
+      if (!users[user] || users[user] !== pass) {
+        return new Response("Unauthorized", { status: 401 });
+      }
+
+      if (!streamMap.has(id)) {
+        await parseM3U();
+      }
+
+      const realUrl = streamMap.get(id);
+      if (!realUrl) return new Response("Canal não encontrado", { status: 404 });
+
+      return Response.redirect(realUrl, 302);
+    }
+
+    return new Response("Not found", { status: 404 });
+  }
+};
